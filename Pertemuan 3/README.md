@@ -1,4 +1,4 @@
-# Pertemuan 2
+# Pertemuan 3
 ### Student CRUD
 
 Screenshoot
@@ -20,22 +20,13 @@ Screenshoot
 ### Web Student CRUD
 
 Screenshoot
-- Index
+
+Index, Creating Process, Deleting Process, and Editing Process
 ![Index-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_index.png)
-
-- Creating Process
 ![Create1-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_create1.png)
-
 ![Create2-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_create2.png)
-
 ![Create3-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_create3.png)
-
-- Deleting Process
-![Delete1-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_delete1.png)
-
-![Delete2-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_delete2.png)
-
-- Editing Process
-![Edit1-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_edit1.png)
-
-![Edit2-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_edit2.png)
+![Deleting1-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_delete1.png)
+![Deleting2-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_delete2.png)
+![Editing1-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_edit1.png)
+![Editing2-SS](https://github.com/GaniFatur/Kuliah/blob/main/Pertemuan%203/img/web_edit2.png)
