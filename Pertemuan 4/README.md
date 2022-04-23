@@ -1,4 +1,5 @@
 # Forgot-Password
+notes: password from application.yml has been removed and revoked after testing/screenshoot
 
 ## Screenshoot
 
